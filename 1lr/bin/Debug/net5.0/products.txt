@@ -1,0 +1,13 @@
+Список продуктов:
+Name: Orange, Price: 1, Quantity: 50, Expiration Date: 01.11.2024
+Name: Apple, Price: 0,85, Quantity: 40, Expiration Date: 02.11.2024
+Name: Potato, Price: 0,7, Quantity: 60, Expiration Date: 20.11.2024
+Name: Juice, Price: 1,35, Quantity: 25, Expiration Date: 21.11.2024
+Name: Meat, Price: 2,7, Quantity: 35, Expiration Date: 20.11.2024
+Name: Milk, Price: 1,2, Quantity: 30, Expiration Date: 24.11.2024
+Name: Bread, Price: 0,8, Quantity: 50, Expiration Date: 25.11.2024
+Name: Eggs, Price: 2, Quantity: 20, Expiration Date: 26.11.2024
+Name: Butter, Price: 3,5, Quantity: 25, Expiration Date: 20.11.2024
+Name: Cheese, Price: 2,5, Quantity: 15, Expiration Date: 25.12.2024
+Name: Yogurt, Price: 1, Quantity: 60, Expiration Date: 30.11.2024
+Name: Chicken, Price: 5, Quantity: 10, Expiration Date: 10.11.2024
